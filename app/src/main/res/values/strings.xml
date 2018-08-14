@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">UserReg</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="location">Location</string>
+    <string name="zipcode">Zipcode</string>
+    <string name="dob">Date of Birth</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="feet">Feet</string>
+    <string name="inches">Inches</string>
+    <string name="reg_gender">I am</string>
+    <string name="pref_gender">Looking for</string>
+    <string name="pref_age">From the ages</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="height">Height</string>
+    <string name="next">Next</string>
+    <string name="complete">Complete Registration</string>
+    <string name="details">My Details</string>
+    <string name="matchDetails">My Match Details</string>
+    <string name="height_string">%1$s\' %2$s" </string>
+    <string name="age_string">%1$s to %2$s</string>
+
+
+
+    <string name="preference_file_key">RegPrefs</string>
+
+    <string-array
+        name="religion_array">
+        <item>Religion (optional)</item>
+        <item>Prefer not to answer</item>
+        <item>Atheist</item>
+        <item>Agnostic</item>
+        <item>Christian</item>
+        <item>Catholic</item>
+        <item>Jewish</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array
+        name="race_array">
+        <item>Race (optional)</item>
+        <item>Prefer not to answer</item>
+        <item>Asian</item>
+        <item>African American</item>
+        <item>Pacific Islander</item>
+        <item>American Indian</item>
+        <item>Other</item>
+    </string-array>
+</resources>
